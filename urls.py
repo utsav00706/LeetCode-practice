@@ -21,3 +21,5 @@ urlpatterns = [
     path('',include('fees.urls')),
     path('app2/',include('course.urls')),
 ]
+
+print("hi bro hw are you")
